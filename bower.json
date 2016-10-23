@@ -1,0 +1,27 @@
+{
+  "name": "simple-web-server",
+  "description": "Simple Web Server",
+  "main": "server.js",
+  "authors": [
+    "Angel Tsvetkov"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "simple",
+    "web",
+    "server"
+  ],
+  "homepage": "https://github.com/theqaangel/simple-web-server",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-utils": "~0.1.1",
+    "angular-ui-router": "~0.2.10",
+    "angular": "^1.4.9"
+  }
+}

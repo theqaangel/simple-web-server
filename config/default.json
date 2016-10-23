@@ -1,0 +1,9 @@
+{
+    "host": "0.0.0.0",
+    "appserver": {
+        "port": "8889"
+    },
+    "webserver": {
+        "port": "88" 
+    }
+}

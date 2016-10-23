@@ -1,0 +1,31 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "Simple Web Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js",
+    "postinstall": "bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theqaangel/simple-web-server.git"
+  },
+  "keywords": [
+    "simple",
+    "web",
+    "server"
+  ],
+  "author": "Angel Tsvetkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theqaangel/simple-web-server/issues"
+  },
+  "homepage": "https://github.com/theqaangel/simple-web-server#readme",
+  "dependencies": {
+    "restify": "4.0.4",
+    "request": "2.69.0",
+    "config": "1.21.0"
+  }
+}
